@@ -1,0 +1,11 @@
+body{
+    background-color: white;
+}
+
+.navbar{
+    background-color: #10ac84;
+}
+
+.navbar-brand{
+    width: 20rem;
+}
